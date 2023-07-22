@@ -34,16 +34,22 @@ Member get his routine of the choosen day with the option of going back or retur
 
 
 <img width="150" alt="Screenshot 2023-07-22 at 4 28 02 PM" src="https://github.com/aryaparab/GymManagement-OOPS-/assets/128788463/97ba7eb5-dd93-42b6-a813-a4d383ea7a7d">
+
+
+
 Trainer chooses to access member
 
 
 
 <img width="116" alt="Screenshot 2023-07-22 at 4 30 06 PM" src="https://github.com/aryaparab/GymManagement-OOPS-/assets/128788463/84c2b64f-320f-402d-8296-f02d981eae31">
 
+
+
 Trainer chooses a particular member
 
 
 
 <img width="216" alt="Screenshot 2023-07-22 at 4 30 58 PM" src="https://github.com/aryaparab/GymManagement-OOPS-/assets/128788463/4a85be00-3a5c-42a6-b923-805f5611c55f">
+
 
 Trainer chooses the following options
