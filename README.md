@@ -58,8 +58,7 @@ Trainer chooses the following options
 
 ### Admin ###
 
-
-<img width="216" alt="Screenshot 2023-07-22 at 4 30 58 PM" src="https://github.com/aryaparab/GymManagement-OOPS-/assets/128788463/8e27a37a-b9f8-4940-888f-2f0c019db15d">
+<img width="144" alt="Screenshot 2023-07-22 at 4 40 57 PM" src="https://github.com/aryaparab/GymManagement-OOPS-/assets/128788463/0d6ff63c-1506-4938-99a5-26eaa53b8668">
 
 
 Admin has following options
